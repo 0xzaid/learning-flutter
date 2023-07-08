@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "386141162163",
+    "project_id": "learning-flutter-z2410",
+    "storage_bucket": "learning-flutter-z2410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386141162163:android:01bb8ab65513d1f5babec6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_codelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "386141162163-k15eprvav8q40qhdgn13pak9mjc7m9as.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5J6BLXPVQ5Twu8vY_yia08gCLSgKgoo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "386141162163-k15eprvav8q40qhdgn13pak9mjc7m9as.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
